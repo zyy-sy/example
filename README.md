@@ -1,3 +1,3 @@
 # example
 bubble simulation with basilisk
-diameter
+diameters
